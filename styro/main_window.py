@@ -57,7 +57,7 @@ class home():
 
 
         ''''Dropbox ''' 
-        self.dropbox_access_token = '9EdyFYmzhVAAAAAAAAAAEKfygOvc2zTWBslYpQ2W25L3GYQxS_vel6jfolUzYeRu'
+        self.dropbox_access_token = 'DropBox Access Token HERE'
         self.mod_path = '/Mods/'
         self.cc_path = '/CC/'
 
